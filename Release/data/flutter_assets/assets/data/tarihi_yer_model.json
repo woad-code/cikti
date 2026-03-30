@@ -1,0 +1,18 @@
+[
+  {
+    "id": "t1",
+    "ad": "Niğde Kalesi ve Saat Kulesi",
+    "aciklama": "Niğde'nin en eski yerleşim yeri olan kale, şehrin panoramik manzarasını sunar. Saat kulesi ise şehrin simgesidir.",
+    "resimUrl": "assets/images/nigde_kalesi.jpg",
+    "konum": "Merkez, Niğde",
+    "tarihce": "Selçuklu döneminde yapıldığı tahmin edilmektedir."
+  },
+  {
+    "id": "t2",
+    "ad": "Gümüşler Manastırı",
+    "aciklama": "Kaya içine oyulmuş devasa bir manastırdır. İçindeki 'Gülen Meryem' freski dünyada tektir.",
+    "resimUrl": "assets/images/gumusler_manastri.jpg",
+    "konum": "Gümüşler Kasabası, Niğde",
+    "tarihce": "8. ve 12. yüzyıllar arasında inşa edilmiştir."
+  }
+]
